@@ -1,0 +1,5 @@
+# Ignore the Images folder
+Images/
+
+# Ignore the specific file
+sam_vit_h4b8939.pth
